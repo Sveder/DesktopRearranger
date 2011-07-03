@@ -1,0 +1,12 @@
+This is distributed under the CC Attribution license:
+http://creativecommons.org/licenses/by/3.0/
+
+A very cool program that arranges your desktop icons in various shapes. I don't have a
+full dictionary but the best option is to run it with 18 icons, which will result in a working
+analog clock.
+I really need to change it to port it to windows 7, since it seems the API I used 
+doesn't work anymore.
+
+Note - currently only works on Windows XP. Also you'll probably need a mssvc redistributable.
+
+MS@svedersoft.com, 10/08
